@@ -1,0 +1,10 @@
+{
+    "name": "botble/mpesa",
+    "description": "M-Pesa Payment Plugin for Botble CMS",
+    "autoload": {
+        "psr-4": {
+            "Botble\\Mpesa\\": "src/"
+        }
+    }
+}
+
