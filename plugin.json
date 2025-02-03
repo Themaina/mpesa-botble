@@ -1,0 +1,8 @@
+{
+    "name": "M-Pesa Payment Plugin",
+    "slug": "mpesa",
+    "version": "1.0.0",
+    "author": "Your Name or Company",
+    "description": "A plugin that integrates the M-Pesa Daraja API for handling payments in Botble CMS."
+  }
+  
